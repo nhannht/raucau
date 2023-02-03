@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*render this chatbox */
+.chat-message-from-me {
+    @apply  w-full;
+
+
+}
+.chat-message-from-them {
+    @apply  place-content-start w-3/4;
+}
