@@ -1,4 +1,6 @@
-## This is a desktop app which is creating for fun
+## This is a desktop app which is created for fun, try to cheat ChatGPT work for me
+
+![](showcases/pic1.png)
 
 ### How to use in development
 
